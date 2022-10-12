@@ -1,3 +1,3 @@
-# plum-command-cli
+# plum-cli
 
-A description of this package.
+Plum Command Line Interface (CLI)
